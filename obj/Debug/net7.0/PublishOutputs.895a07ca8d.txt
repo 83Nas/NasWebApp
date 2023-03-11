@@ -1,0 +1,7 @@
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\NasWebApp.exe
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\NasWebApp.dll
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\NasWebApp.deps.json
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\NasWebApp.runtimeconfig.json
+C:\Users\83nassia\source\repos\NasWebApp\NasWebApp\bin\Debug\net7.0\publish\NasWebApp.pdb
